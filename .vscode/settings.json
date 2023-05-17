@@ -1,0 +1,5 @@
+{
+    "editor.inlayHints.enabled": "on",
+    "editor.parameterHints.cycle": true,
+    "editor.parameterHints.enabled": false
+}
